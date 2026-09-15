@@ -1,73 +1,68 @@
-# Hi, I'm Luis David Ducuara
+# Luis David Ducuara Full Stack Engineering Portfolio
 
-**Backend & Automation Developer | Mechatronics Engineering Student**
+A responsive portfolio website presenting my work across full-stack development, backend systems, workflow automation, AI integrations, cloud platforms, mobile applications, IoT, and mechatronics.
 
-I build reliable systems that connect APIs, automation workflows, payment services, cloud infrastructure, operational data, and physical devices.
+## Portfolio focus
 
-Based in Medellín, Colombia · Open to remote roles in backend development, integrations, automation, IoT, and applied AI.
-
-![Backend automation, IoT and AI engineering portfolio](assets/automation-iot-ai-hero.jpg)
-
-*Selected engineering domains: self-service automation, IoT monitoring, access control, data, and controlled AI analytics.*
-
-## What I deliver
-
+- Full-stack product delivery across web, mobile, backend, cloud, and connected devices.
 - Backend APIs and integration services with NestJS, Node.js, TypeScript, and Python.
-- Stateful automation using n8n, RPA, webhooks, retries, and auditable workflows.
-- PostgreSQL data models for transactions, telemetry, reporting, and reconciliation.
-- AWS and Docker-based services for reliable deployment and operations.
-- IoT solutions connecting sensors, edge controllers, alerts, and actuators.
-- Natural-language analytics with controlled, read-only access to operational data.
+- Responsive web interfaces with Next.js and React.
+- Cross-platform mobile applications with React Native and Expo.
+- Workflow automation with n8n, RPA, APIs, webhooks, and payment gateways.
+- AWS services, PostgreSQL data models, Docker, operational traceability, and audit logs.
+- Applied AI for controlled natural-language access to operational data.
+- IoT telemetry, sensors, edge controllers, alerts, and actuator integration.
 
-## Selected professional case studies
+## Featured case studies
 
-| Case study | Engineering focus |
-| --- | --- |
-| [Healthcare Self-Service Kiosk Automation](https://github.com/LuisDa87/Web_Ingeniot#case-study-1-healthcare-self-service-kiosk-automation) | APIs, legacy-system RPA, payment gateways, webhooks, workflow state, and transaction evidence |
-| [Environmental Monitoring and HVAC Automation](https://github.com/LuisDa87/Web_Ingeniot#case-study-2-environmental-monitoring-and-hvac-automation) | IoT telemetry, edge integration, device health, alerts, reports, and control rules |
-| [Access Control Analytics with Natural-Language AI](https://github.com/LuisDa87/Web_Ingeniot#case-study-3-access-control-analytics-with-natural-language-ai) | Event ingestion, PostgreSQL, authorized AI queries, validation, and audit logging |
+The website includes three sanitized professional case studies:
 
-These public case studies are sanitized summaries of professional work developed at Ingeniot S.A.S. They explain the problem, architecture, responsibilities, and technology choices without publishing proprietary code or customer data.
+1. Healthcare self-service kiosk and digital payment automation.
+2. Environmental monitoring and HVAC automation.
+3. Access-control analytics with natural-language AI.
 
-## Core technology stack
+The case studies explain engineering problems, architecture, responsibilities, and technology choices without publishing customer data, credentials, private endpoints, production source code, or confidential documentation.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | NestJS, Node.js, TypeScript, Python, REST APIs |
-| Automation | n8n, RPA, webhooks, event-driven workflows |
-| Data | PostgreSQL, Sequelize, TypeORM, SQL |
-| Cloud and DevOps | AWS Lambda, API Gateway, RDS, Docker, Linux |
-| IoT | Sensors, edge controllers, telemetry, alerts, actuators |
-| Applied AI | LLM APIs, natural-language queries, controlled SQL access |
+## Public projects
 
-## Featured public projects
+- [Automation IoT and AI Engineering Portfolio](https://github.com/LuisDa87/Web_Ingeniot)
+- [Employability Platform](https://github.com/LuisDa87/employability-platform)
+- [Financial Operations Dashboard](https://github.com/LuisDa87/financial-operations-dashboard)
+- [Tech Help Desk API](https://github.com/LuisDa87/prueba-nest)
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Automation, IoT and AI Portfolio](https://github.com/LuisDa87/Web_Ingeniot) | Three documented professional case studies with sanitized visuals, architecture, engineering responsibilities, and security considerations |
-| [Employability Platform](https://github.com/LuisDa87/Empleabilidad) | Vacancy and candidate platform with Express, TypeScript, PostgreSQL, Next.js, JWT, Swagger, and Docker |
-| [TechHelpDesk API](https://github.com/LuisDa87/prueba-nest) | Role-based NestJS API with TypeORM, PostgreSQL, authentication, business rules, tests, and API documentation |
-| [Financial Operations Dashboard](https://github.com/LuisDa87/financiera) | Transaction tracking, reconciliation-oriented queries, PostgreSQL normalization, PostgREST, and CSV ingestion |
-| [EventManager](https://github.com/LuisDa87/impulsa) | Role-based JavaScript SPA with event management, authentication flows, reusable components, and REST-style data consumption |
-| [Developer Portfolio](https://github.com/LuisDa87/PortafolioLuis) | Responsive personal portfolio using semantic HTML, CSS Grid, Flexbox, and JavaScript interactions |
+## Technology
 
-## Engineering principles
+The portfolio itself is intentionally lightweight:
 
-I prioritize traceability, secure configuration, clear failure handling, least-privilege data access, and maintainable documentation. When production source code is confidential, I create honest, sanitized case studies instead of exposing customer systems or credentials.
+- Semantic HTML5
+- Modern responsive CSS
+- Vanilla JavaScript
+- Accessible navigation and keyboard focus states
+- Dark and light themes
+- Reduced-motion support
+- Open Graph and structured profile metadata
+- No framework or build step required
 
-## Experience highlights
+## Run locally
 
-- Backend, automation, IoT, and cloud integration for real operational workflows.
-- Payment gateway and webhook integration with transaction traceability.
-- Monitoring and control solutions for temperature and humidity.
-- Access-control analytics with natural-language queries and auditable data access.
-- Technical planning and delivery coordination for a four-person development team.
+```bash
+python3 -m http.server 8000
+```
 
-## Contact
+Then open `http://localhost:8000`.
 
+## GitHub Pages
+
+The site is prepared to publish from the `main` branch and repository root. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
+
+Expected public URL:
+
+`https://luisda87.github.io/LuisDa87-LuisDa87/`
+
+## Author
+
+**Luis David Ducuara Cadavid**  
+Full-Stack Developer · Backend and Automation · Mechatronics Engineering
+
+- [GitHub](https://github.com/LuisDa87)
 - [LinkedIn](https://www.linkedin.com/in/luisdavidd/)
-- [GitHub repositories](https://github.com/LuisDa87?tab=repositories)
-
----
-
-Open to remote opportunities where backend engineering, automation, cloud services, IoT, and applied AI meet real operational problems.
